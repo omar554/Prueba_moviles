@@ -1458,7 +1458,11 @@ id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
 id action_plus_team_a
+id action_plus_team_a2
+id action_plus_team_a3
 id action_plus_team_b
+id action_plus_team_b2
+id action_plus_team_b3
 id action_text
 id actions
 id activity_chooser_view_content
@@ -1854,6 +1858,8 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string action_plus_one
+string action_plus_three
+string action_plus_two
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior

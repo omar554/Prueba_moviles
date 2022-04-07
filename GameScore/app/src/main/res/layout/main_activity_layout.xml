@@ -30,6 +30,20 @@
         android:onClick="increaseScore"
         android:text="@string/action_plus_one" />
 
+    <Button
+        android:id="@+id/action_plus_team_a2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="increaseScore"
+        android:text="@string/action_plus_two"/>
+
+    <Button
+        android:id="@+id/action_plus_team_a3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="increaseScore"
+        android:text="@string/action_plus_three" />
+
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
@@ -61,5 +75,19 @@
         android:layout_height="wrap_content"
         android:onClick="increaseScore"
         android:text="@string/action_plus_one" />
+
+    <Button
+        android:id="@+id/action_plus_team_b2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="increaseScore"
+        android:text="@string/action_plus_two" />
+
+    <Button
+        android:id="@+id/action_plus_team_b3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="increaseScore"
+        android:text="@string/action_plus_three" />
 
 </LinearLayout>

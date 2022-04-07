@@ -87,6 +87,10 @@ class MainActivity : AppCompatActivity() {
         when (view.id) {
             R.id.action_plus_team_a -> handlerTeamA(1)
             R.id.action_plus_team_b -> handlerTeamB(1)
+            R.id.action_plus_team_a2 -> handlerTeamA(2)
+            R.id.action_plus_team_b2 -> handlerTeamB(2)
+            R.id.action_plus_team_a3 -> handlerTeamA(3)
+            R.id.action_plus_team_b3 -> handlerTeamB(3)
         }
     }
 

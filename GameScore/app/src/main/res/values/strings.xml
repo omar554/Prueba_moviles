@@ -3,4 +3,6 @@
     <string name="title_equipo_a">Equipo A</string>
     <string name="title_equipo_b">Equipo B</string>
     <string name="action_plus_one">+1</string>
+    <string name="action_plus_two">+2</string>
+    <string name="action_plus_three">+3</string>
 </resources>
