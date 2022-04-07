@@ -1,0 +1,2 @@
+com/naldana/gamescore/BuildConfig.java
+ com.naldana.gamescore.BuildConfig
