@@ -21,6 +21,7 @@ ext {
 }
 
 implementation "androidx.fragment:fragment-ktx:$fragment_version"
+
     // Testing Fragments in Isolation
     debugImplementation "androidx.fragment:fragment-testing:$fragment_version"
 
@@ -40,7 +41,8 @@ ext {
 }
 
 implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
-  implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
+implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
+
 androidTestImplementation "androidx.navigation:navigation-testing:$nav_version"
 
 // en el principal, antes de los plugins y las ext metelo en el buildscript
