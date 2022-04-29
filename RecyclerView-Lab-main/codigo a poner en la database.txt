@@ -1,0 +1,4 @@
+INSERT INTO word_table (term,definition,is_fav)
+VALUES
+  ("Morbi","id magna et ipsum cursus vestibulum. Mauris magna. Duis dignissim tempor arcu. Vestibulum ut eros non enim commodo hendrerit. Donec porttitor tellus non magna. Nam ligula","0"),
+  ("condimentum","Proin velit. Sed malesuada augue ut lacus. Nulla tincidunt, neque vitae semper egestas, urna","1"),
